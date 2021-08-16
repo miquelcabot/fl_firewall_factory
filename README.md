@@ -1,5 +1,5 @@
-# fluency_firewall_factory
-Firewall Factory for Fluency
+# fl_firewall_factory
+Firewall Factory Test
 
 ## Requisites
 * [NodeJS](https://nodejs.org/)
